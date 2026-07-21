@@ -4,6 +4,8 @@
 
 Contact: **Jacksun** · [qinji@jack-sun.com](mailto:qinji@jack-sun.com)
 
+![影片解释器主视觉：视频分段、转录与多模态分析的概念示意。](docs/assets/hero-system-v1.png)
+
 基于 qwen3.7-plus 多模态大模型的视频分析工具。
 
 ## 功能
