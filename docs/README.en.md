@@ -2,7 +2,7 @@
 
 A multimodal video analysis workspace for turning footage into structured explanations.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![video-explainer project visual](assets/video-explainer-hero.png)
 
 ## What it does
 

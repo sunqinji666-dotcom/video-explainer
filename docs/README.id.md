@@ -2,7 +2,7 @@
 
 A multimodal video analysis workspace for turning footage into structured explanations.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![video-explainer project visual](assets/video-explainer-hero.png)
 
 Language: Bahasa Indonesia. See the [English guide](README.en.md) or [中文首页](../README.md) for setup, privacy, and contribution details.
 
